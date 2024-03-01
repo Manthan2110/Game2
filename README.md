@@ -1,1 +1,1 @@
-#This is Stone-Paper-Scissor Game.
+This is Stone-Paper-Scissor Game.
